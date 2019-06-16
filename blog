@@ -1,0 +1,25 @@
+<html>
+
+ <title> Blog </title>
+
+<body>
+<h1 style="color:Tomato;">Blog</h1>
+<p style="color:DodgerBlue;"> Here is me favarite ....</p>
+ 
+<h2 style="background-color:hsl(248, 53%, 78%);"> About </h2>
+
+<h2> Summery </h2>
+
+Served the petroleum industry for 4 years with a greater contribution in the area of reservoir eng.
+ <br>
+ 
+ <br>
+ <h3> Specialties: </h3>
+ <ul>
+  <li> Reservoir Simulation and Modelling </li>
+  <li> Data-Driven Modeling & Scientific Computation</li>
+ </ul>
+
+ 
+
+</html>
